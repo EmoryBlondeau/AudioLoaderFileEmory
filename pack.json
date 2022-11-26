@@ -1,0 +1,10 @@
+{
+  "name": "Money Makes Money (Real Estate Royale music)-Yakuza 0 OST",
+  "description": "The music that plays in the background of the Real Estate Royale Minigame in Yakuza 0.",
+  "author": "EmoryBlondeau",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
